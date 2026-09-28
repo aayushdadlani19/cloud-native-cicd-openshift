@@ -1,3 +1,4 @@
+[![CI workflow](https://github.com/aayushdadlani19/cloud-native-cicd-openshift/actions/workflows/workflow.yml/badge.svg)](https://github.com/aayushdadlani19/cloud-native-cicd-openshift/actions/workflows/workflow.yml)
 # Cloud-Native CI/CD Pipeline Automation on OpenShift
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)]()
